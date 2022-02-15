@@ -13,4 +13,4 @@ jobs:
       - uses: actions/setup-node@v1
         name: Run spell and grammar check check
       - run: pwd
-      - run: sh ./MDSpellAndGrammarCheck.sh
+      - run: sh ./.github/workflows/MDSpellAndGrammarCheck.sh
