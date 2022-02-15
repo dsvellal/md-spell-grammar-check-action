@@ -1,4 +1,3 @@
 # Heading
 
-This is a sample readme.md
-
+This is a sample

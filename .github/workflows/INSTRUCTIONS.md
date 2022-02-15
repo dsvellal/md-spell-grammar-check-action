@@ -1,1 +1,1 @@
-Sampal instruction file which contains spelling mistakees.
+Sample instruction file which contains spelling mistakes.
