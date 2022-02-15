@@ -1,13 +1,5 @@
 name: Markdown spell & grammar checks
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
 jobs:
   spellandgrammarchecking:
     runs-on: ubuntu-latest
