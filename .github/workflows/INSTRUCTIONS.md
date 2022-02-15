@@ -1,1 +1,0 @@
-Sampal instruction file which contains spelling mistakees.
